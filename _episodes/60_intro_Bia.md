@@ -1,6 +1,6 @@
 ---
 title: "Bia Introduction"
-teaching: 30
+teaching: 120
 exercises: 30
 questions:
 - "many for sure"
