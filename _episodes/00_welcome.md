@@ -9,6 +9,7 @@ questions:
 objectives:
 - "Overall view of the workshop"
 - "Getting to know each other"
+- "TESTING IF THIS WORKS"
 
 ---
 
